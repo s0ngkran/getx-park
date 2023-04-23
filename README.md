@@ -1,14 +1,12 @@
-# getx-park README
-
-This is the README for your extension "getx-park". After writing up a brief description, we recommend including the following sections.
-
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+You can use this extension for check Obx() variable in GetX.
 
-For example if there is an image subfolder under your extension project workspace:
 
-![feature X](images/getx_park_example.png)
+![feature X](https://raw.githubusercontent.com/s0ngkran/getx-park/main/images/getx_park_example-2.jpg)
+
+
+contact me: jinnawat8@gmail.com
 
 <!-- > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow. -->
 

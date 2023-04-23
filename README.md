@@ -1,6 +1,6 @@
 ## Features
 
-You can use this extension for check Obx() variable in GetX.
+You can use this extension for checking Obx() variables in GetX.
 
 
 ![feature X](https://raw.githubusercontent.com/s0ngkran/getx-park/main/images/getx_park_example-2.jpg)

@@ -3,6 +3,11 @@
   "displayName": "GetX Park",
   "description": "extracts getx variable from fuzzy-code",
   "version": "0.0.1",
+  "publisher": "jinnavat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s0ngkran/getx-park"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },

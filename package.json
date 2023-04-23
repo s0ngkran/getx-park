@@ -2,7 +2,7 @@
   "name": "getx-park",
   "displayName": "GetX Park",
   "description": "extracts getx variable from fuzzy-code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "jinnavat",
   "repository": {
     "type": "git",

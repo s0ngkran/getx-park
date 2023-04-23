@@ -8,11 +8,11 @@ Describe specific features of your extension including screenshots of your exten
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/feature-x.png\)
+![feature X](images/getx_park_example.png)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+<!-- > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow. -->
 
-## Requirements
+<!-- ## Requirements
 
 If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
@@ -62,4 +62,4 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+**Enjoy!** -->

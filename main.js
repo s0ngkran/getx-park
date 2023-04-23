@@ -30,7 +30,7 @@ function showObx(vscode, isHalf) {
   });
 
   let str = "";
-  str += "<br><br>";
+  str += "<br>";
   // get current file path
   let currentFilePath = document.fileName;
   let obxTabCount = 0;

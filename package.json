@@ -24,9 +24,15 @@
     ],
     "keybindings": [
       {
-        "command": "getx-park.showObxFull",
+        "command": "getx-park.showObxHalf",
         "key": "ctrl+shift+z",
         "mac": "cmd+shift+z",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "getx-park.showObxFull",
+        "key": "ctrl+shift+alt+z",
+        "mac": "cmd+shift+ctrl+z",
         "when": "editorTextFocus"
       }
     ]

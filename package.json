@@ -2,7 +2,7 @@
   "name": "getx-park",
   "displayName": "GetX Park",
   "description": "extracts getx variable from fuzzy-code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "jinnavat",
   "repository": {
     "type": "git",
@@ -14,6 +14,7 @@
   "categories": [
     "Other"
   ],
+  "icon": "images/getx_logo.png",
   "activationEvents": ["onStartupFinished"],
   "main": "./extension.js",
   "contributes": {
